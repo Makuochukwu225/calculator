@@ -120,7 +120,7 @@ class CalcAppState extends State<CalcApp> {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
                   CalcButton(
-                    text: 'π',
+                    text: 'cos',
                     fillColor: 0xFF6C807F,
                     textSize: 20,
                     callback: numClick,
